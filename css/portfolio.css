@@ -1,0 +1,44 @@
+.sub-secao{
+  padding-left: 47px;
+  padding-right: 48px;
+  display: flex;
+  flex-direction: column;
+}
+
+ img{
+  max-width: 540px;
+} 
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 60px;
+}
+
+.tg-titulo-2{
+  margin-top: 103px;
+  margin-bottom: 28px;
+}
+
+.sobre{
+  width: 350px;
+  border-top: 1px solid rgba(51, 50, 61,0.15);
+  border-bottom: 1px solid rgba(51, 50, 61,0.15);
+}
+
+.direita{
+  margin-right: 125px;
+}
+
+.esquerda{
+  margin-left: 125px;
+}
+
+.sobre .btn-ir{
+  margin-top: 54px;
+  margin-bottom: 28px;
+}
+
+.contato{
+  margin-top: 90px;
+}

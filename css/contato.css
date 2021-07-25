@@ -1,0 +1,65 @@
+.info-contato{
+    border-top: 1px solid rgba(51, 50, 61,0.15);
+    padding: 48px 0 48px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-paragrafo{
+    flex-basis: 635px;
+}
+
+.info-paragrafo .redes{
+    margin-top: 54px;
+}
+
+.secao-form{
+    border-top: 1px solid rgba(51, 50, 61,0.15);
+    padding: 47px 0 109px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.formulario{
+    flex-basis: 635px;
+}
+
+.input-container{
+    display: flex;
+    flex-direction:column;
+}
+
+.formulario .btn-ir{
+    background-color: #203A4C;
+    color: white;
+}
+
+.input-container input, .msg{
+    all:unset;
+    color: #33323D;
+    min-height: 48px;
+    background-color: rgba(51, 50, 61, 0.1);
+    box-sizing: content-box;
+    padding: 0 12px;
+    overflow-wrap: break-word;
+    border: 2px solid transparent;
+    margin-top: 8px;
+}
+
+.input-container input{
+    margin-bottom: 24px;
+}
+
+.input-container .msg{
+    height: 96px;
+}
+
+.input-container input:focus, .msg:focus{
+    border: 2px solid #000000;
+}
+
+.formulario .btn-ir:hover{
+    background-color: #5FB4A2;
+    border: none;
+    color: white;
+}

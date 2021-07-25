@@ -1,0 +1,76 @@
+.hero-section{
+  display: flex;
+  min-height: 600px;
+  align-items: flex-end;
+  background: url(/assets/home/image-homepage-hero.jpg) center /cover;
+}
+
+.pitch {
+  background-color: #fafafa;
+  max-width: 445px;
+  padding:56px 28px 0 0;
+}
+
+.pitch .tg-titulo{
+  padding-left: 28px;
+}
+
+.btn-sobre{
+  color: #FFFFFF;
+  background-color: #203A4C;
+  border-color: #203A4C;
+  margin-top: 53px;
+  height: 48px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+}
+
+.btn-sobre svg{
+  background-color: rgba(0,0,0,0.1);
+  margin-right: 34px;
+  padding: 18px 16px;
+  box-sizing: content-box;
+}
+
+.btn-sobre:hover{
+  background-color: rgba(95, 180, 162);
+  border-color: rgb(95, 180, 162);
+  cursor: pointer;
+}
+.btn-sobre:hover svg g{
+  stroke: #FFF;
+}
+
+.sobre{
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 150px;
+}
+
+.img-profile{
+  width: 540px;
+  height: 600px;
+}
+
+.container-sobre{
+width: 430px;
+padding: 51px 0 46px;
+display: flex;
+flex-direction: column;
+border-top: 1px solid rgba(51, 50, 61, 0.15);
+border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+margin-left: 140px;
+}
+
+.container-sobre .tg-titulo-2 {
+  margin-bottom: 28px;
+}
+
+.container-sobre .btn-ir{
+  align-self: center;
+  width: 204px;
+  color: #777681;
+  margin-top: 28px;
+}
