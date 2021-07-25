@@ -6,7 +6,8 @@
 }
 
 .info-paragrafo{
-    flex-basis: 635px;
+    max-width: 635px;
+    margin-left: 125px;
 }
 
 .info-paragrafo .redes{
@@ -21,7 +22,8 @@
 }
 
 .formulario{
-    flex-basis: 635px;
+    min-width: 635px;
+    margin-left: 125px;
 }
 
 .input-container{
