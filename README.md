@@ -11,7 +11,7 @@ O objetivo deste exercício é replicar o website encontrado no arquivo 'Desafio
   - ![CSS3](https://img.shields.io/badge/-CSS3-blue)
 
 #### Como executá-lo?
-Você pode vê-lo <a href="" target="_blank">aqui</a>
+Você pode vê-lo <a href="https://alexportfoliodesafio.vercel.app/index.html" target="_blank">aqui</a>
 
 #### Aprendizados:
 
